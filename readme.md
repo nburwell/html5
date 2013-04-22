@@ -1,0 +1,1 @@
+Tests with HTML5 and Windows Azure services
